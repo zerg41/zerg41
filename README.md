@@ -18,7 +18,7 @@
 ## Контакты:
 <!-- [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/andreysdrv/) -->
 [<img src="./svg/telegram.svg">](https://t.me/baglyukov)
-[<img src="./svg/gmail.svg" width="96px" height="96px">](mailto:olegbaglyukov@yandex.ru)
+[<img src="./svg/gmail.svg" width="96px" height="96px">](mailto:zerg41@gmail.com)
 [<img src="./svg/vk.svg" width="96px" height="96px">](https://vk.com/baglyukov)
 <!-- [<img src="./svg/ig.svg" width="96px" height="96px">](https://vk.com/baglyukov) -->
 
