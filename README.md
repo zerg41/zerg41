@@ -33,7 +33,7 @@ If you're looking for an experienced fronted-developer who can run a modern, fas
 
 <div style="display: flex; column-gap: 10px; height: 100px; width: 100%;">
   <a href="https://github-readme-stats.vercel.app/api?username=zerg41&hide=contribs&show_icons=true&theme=react">
-    <img  height="auto" width=auto" src="https://github-readme-stats.vercel.app/api?username=zerg41&hide=contribs&show_icons=true&theme=react" />
+    <img  height="auto" width="auto" src="https://github-readme-stats.vercel.app/api?username=zerg41&hide=contribs&show_icons=true&theme=react" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zerg41&layout=compact&theme=react">
     <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerg41&layout=compact&theme=react" />
