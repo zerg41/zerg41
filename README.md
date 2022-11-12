@@ -10,24 +10,59 @@ If you're looking for an experienced fronted-developer who can run a modern, fas
 
 ## Stack:
 
-![HTML](./svg/stack/html5.svg)
-![CSS](./svg/stack/css3.svg)
-![JavaScript](./svg/stack/javascript.svg)
-![TypeScript](./svg/stack/typescript.svg)
-![React](./svg/stack/react.svg)
-![Redux](./svg/stack/redux.svg)
-![Bootstrap](./svg/stack/bootstrap.svg)
-![Node](./svg/stack/nodejs.svg)
-![Git](./svg/stack/git.svg)
-![Webpack](./svg/stack/webpack.svg)
-![Gulp](./svg/stack/gulp.svg)
-![Grunt](./svg/stack/grunt.svg)
+<div style="display: flex; column-gap: 10px;">
+  <a href="">
+    <img src="./svg/stack/html5.svg" alt="html" width="40px" height="40px" style="object-fit: contain">
+  </a>
+  <a href="">
+    <img src="./svg/stack/css3.svg" alt="css" width="40px" height="40px" style="object-fit: contain">
+  </a>
+  <a href="">
+    <img src="./svg/stack/javascript.svg" alt="js" width="40px" height="40px" style="object-fit: contain">
+  </a>
+  <a href="">
+    <img src="./svg/stack/typescript.svg" alt="ts" width="40px" height="40px" style="object-fit: contain">
+  </a>
+  <a href="">
+    <img src="./svg/stack/react.svg" alt="react" width="40px" height="40px" style="object-fit: contain">
+  </a>
+  <a href="">
+    <img src="./svg/stack/redux.svg" alt="redux" width="40px" height="40px" style="object-fit: contain">
+  </a>
+  <a href="">
+    <img src="./svg/stack/bootstrap.svg" alt="bootstrap" width="40px" height="40px" style="object-fit: contain">
+  </a>
+  <a href="">
+    <img src="./svg/stack/nodejs.svg" alt="nodejs" width="40px" height="40px" style="object-fit: contain">
+  </a>
+  <a href="">
+    <img src="./svg/stack/git.svg" alt="git" width="40px" height="40px" style="object-fit: contain">
+  </a>
+  <a href="">
+    <img src="./svg/stack/webpack.svg" alt="webpack" width="40px" height="40px" style="object-fit: contain">
+  </a>
+  <a href="">
+    <img src="./svg/stack/gulp.svg" alt="gulp" width="40px" height="40px" style="object-fit: contain">
+  </a>
+  <a href="">
+    <img src="./svg/stack/grunt.svg" alt="grunt" width="40px" height="40px" style="object-fit: contain">
+  </a>
+  <p>...to be continued</p>
+</div>
 
 ## Contacts:
 
-[<img src="./svg/social/linkedin.svg">](https://www.linkedin.com/in/baglyukov/)
-[<img src="./svg/social/telegram.svg">](https://t.me/baglyukov)
-[<img src="./svg/social/email.svg">](mailto:zerg41@gmail.com)
+<div style="display: flex; column-gap: 10px;">
+  <a href="mailto:zerg41@gmail.com">
+    <img src="./svg/social/email.svg" alt="email" width="30px" height="45px" style="object-fit: contain">
+  </a>
+    <a href="https://t.me/baglyukov">
+    <img src="./svg/social/telegram.svg" alt="telegram" width="30px" height="40px" style="object-fit: contain">
+  </a>
+  <a href="https://www.linkedin.com/in/baglyukov/">
+    <img src="./svg/social/linkedin.svg" alt="linkedin" width="30px" height="37px" style="object-fit: contain">
+  </a>
+</div>
 
 ## Stats:
 
