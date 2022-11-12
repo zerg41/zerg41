@@ -10,24 +10,24 @@ If you're looking for an experienced fronted-developer who can run a modern, fas
 
 ## Stack:
 
-![HTML](./svg/html5.svg)
-![CSS](./svg/css3.svg)
-![JavaScript](./svg/javascript.svg)
-![TypeScript](./svg/typescript.svg)
-![React](./svg/react.svg)
-![Redux](./svg/redux.svg)
-![Bootstrap](./svg/bootstrap.svg)
-![Node](./svg/nodejs.svg)
-![Git](./svg/git.svg)
-![Webpack](./svg/webpack.svg)
-![Gulp](./svg/gulp.svg)
-![Grunt](./svg/grunt.svg)
+![HTML](./svg/stack/html5.svg)
+![CSS](./svg/stack/css3.svg)
+![JavaScript](./svg/stack/javascript.svg)
+![TypeScript](./svg/stack/typescript.svg)
+![React](./svg/stack/react.svg)
+![Redux](./svg/stack/redux.svg)
+![Bootstrap](./svg/stack/bootstrap.svg)
+![Node](./svg/stack/nodejs.svg)
+![Git](./svg/stack/git.svg)
+![Webpack](./svg/stack/webpack.svg)
+![Gulp](./svg/stack/gulp.svg)
+![Grunt](./svg/stack/grunt.svg)
 
 ## Contacts:
 
-[<img src="./svg/linkedin.svg">](https://www.linkedin.com/in/baglyukov/)
-[<img src="./svg/telegram.svg">](https://t.me/baglyukov)
-[<img src="./svg/email.svg">](mailto:zerg41@gmail.com)
+[<img src="./svg/social/linkedin.svg">](https://www.linkedin.com/in/baglyukov/)
+[<img src="./svg/social/telegram.svg">](https://t.me/baglyukov)
+[<img src="./svg/social/email.svg">](mailto:zerg41@gmail.com)
 
 ## Stats:
 
@@ -39,7 +39,6 @@ If you're looking for an experienced fronted-developer who can run a modern, fas
     <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerg41&layout=compact&theme=react" />
   </a>
 </div>
-<br/>
 
 ## Some Facts:
 
