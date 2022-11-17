@@ -77,5 +77,5 @@ If you're looking for an experienced fronted-developer who can run a modern, fas
 
 ## Some Facts:
 
-- Fomer Financial Manager
+- Former Financial Manager
 - Frontend Developer since 2021
